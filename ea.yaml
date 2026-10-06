@@ -17,9 +17,9 @@ payload:
   - DOMAIN-SUFFIX,anthemthegame.com
   # Apex Legends
   - DOMAIN-SUFFIX,apexlegends.com
-  - DOMAIN-SUFFIX,respawn.com
   - DOMAIN-SUFFIX,projectapex.com
   - PROCESS-NAME,r5apex_dx12.exe
+  - PROCESS-NAME,EAAntiCheat.GameService.exe
   # Battle Log / Battlefield
   - DOMAIN-SUFFIX,battlefield.com
   - DOMAIN-SUFFIX,battlefield1943.com
@@ -198,4 +198,3 @@ payload:
   - DOMAIN-SUFFIX,yogify.com
   - DOMAIN-SUFFIX,ea.tt.omtrdc.net
   - DOMAIN-SUFFIX,eaassets-a.akamaihd.net
-  - DOMAIN-SUFFIX,amazonaws.com
