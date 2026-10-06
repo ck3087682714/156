@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,apexlegends.com
   - DOMAIN-SUFFIX,respawn.com
   - DOMAIN-SUFFIX,projectapex.com
+  - PROCESS-NAME,r5apex_dx12.exe
   # Battle Log / Battlefield
   - DOMAIN-SUFFIX,battlefield.com
   - DOMAIN-SUFFIX,battlefield1943.com
