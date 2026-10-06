@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,anthemthegame.com
   # Apex Legends
   - DOMAIN-SUFFIX,apexlegends.com
+  - DOMAIN-SUFFIX,respawn.com
   - DOMAIN-SUFFIX,projectapex.com
   # Battle Log / Battlefield
   - DOMAIN-SUFFIX,battlefield.com
