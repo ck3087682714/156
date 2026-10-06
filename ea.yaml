@@ -197,3 +197,4 @@ payload:
   - DOMAIN-SUFFIX,yogify.com
   - DOMAIN-SUFFIX,ea.tt.omtrdc.net
   - DOMAIN-SUFFIX,eaassets-a.akamaihd.net
+  - DOMAIN-SUFFIX,amazonaws.com
