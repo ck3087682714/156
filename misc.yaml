@@ -14,3 +14,4 @@ payload:
   - DOMAIN-KEYWORD,wanmei
   - DOMAIN-KEYWORD,tencent
   - DOMAIN-SUFFIX,sapocia.com
+  - PROCESS-NAME,GameAcc.exe
